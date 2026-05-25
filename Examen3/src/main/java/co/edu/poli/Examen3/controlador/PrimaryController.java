@@ -16,7 +16,7 @@ public class PrimaryController {
 	@FXML
 	private TextField txtPh;
 	@FXML
-	private TextArea txtAreaResultados;
+	private TextArea txtAreaMensajes;
 
 	@FXML
 	public void initialize() {
